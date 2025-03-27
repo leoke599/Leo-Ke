@@ -6,3 +6,6 @@ As a high school student, I don't have much experience right now. I have a basic
 
 # Projects
 I don't have very many projects I'm really proud of, but there is a data repository that I helped create that was for NASA HUNCH. We didn't qualify to go to Houston to present to real NASA engineers, however what we have is still something I'm proud of. Here's the website: https://bit-store-d48f7.web.app/ and here's the repository: https://github.com/VoidedCrystal/Bit-Store-Nasa-Hunch
+
+# My Favorite Meme (it's massive)
+![low-taper-fade](https://github.com/user-attachments/assets/ffa9ca86-0c9e-4c56-9aed-d01d1ecbd0df)
